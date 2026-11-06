@@ -1,123 +1,233 @@
 
-<div align="center">
-
-  <!-- BLUE HYDRANGEA HEADER -->
-  <img width="100%" src="https://images.unsplash.com/photo-1563241527-3004b7be0ffd?auto=format&fit=crop&w=1600&q=85" />
-
-  <h1><em>Ajita Shahi</em></h1>
-  <p><em>Exploring technology · Creating with curiosity · Growing with every project</em></p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1200&color=6D91C5&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Exploring+Software+Development;Learning+Data+%26+Quality+Engineering;Turning+Ideas+Into+Projects" />
-
-</div>
-
----
-
-<h2 align="center"><em>About Me</em></h2>
+<!-- ===================================== -->
+<!-- AJITA SHAHI | GITHUB PROFILE README   -->
+<!-- ===================================== -->
 
 <div align="center">
 
-  <p><em>
-    I'm Ajita, an Information Technology student with a curious mind and a love for learning.
-    I enjoy exploring how technology works, turning creative ideas into practical projects,
-    and discovering new ways to solve real-world problems.
-  </em></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101B3D,45:164E91,100:72B7E8&height=230&section=header&text=AJITA%20SHAHI&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=Curiosity%20%7C%20Creativity%20%7C%20Technology&descSize=17&descAlignY=65&animation=fadeIn" />
 
-  <p><em>
-    From building applications to working with databases and exploring software testing,
-    every experience helps me grow. I believe that meaningful progress comes from curiosity,
-    consistency, and the courage to keep creating.
-  </em></p>
+<br/>
 
-  <p>
-    <em>Currently learning, building, and shaping my journey in the world of IT.</em>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=Information+Technology+Student+%F0%9F%92%BB;Exploring+the+world+of+technology+%E2%9C%A8;Building+ideas+into+real+projects;Learning+something+new+every+day" />
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-1E3A6D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<h2 align="center"><em>Tech Stack & Tools</em></h2>
+<!-- ABOUT -->
+
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,sqlite,git,github,vscode,postman" />
+<table>
+<tr>
+<td width="100%" align="center">
 
-  <br/><br/>
+I'm an Information Technology student with a passion for exploring technology, building practical applications, and continuously developing new skills.
 
-  <img src="https://img.shields.io/badge/Power%20BI-E8C95A?style=for-the-badge&logo=powerbi&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Jira-6D91C5?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manual%20Testing-91A9CC?style=for-the-badge&logo=checkmarx&logoColor=white" />
+I enjoy combining creativity with problem-solving and discovering how different areas of IT connect to create meaningful solutions.
 
-</div>
+<br/>
 
----
+🌐 Exploring different areas of Information Technology
 
-<h2 align="center"><em>GitHub Statistics</em></h2>
+💻 Developing practical software projects
 
-<div align="center">
+📊 Interested in databases, data analytics and business technology
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&bg_color=F3F7FC&title_color=557BAE&text_color=52657D&icon_color=789BC5&hide_border=true" />
+🧪 Exploring software quality and testing
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&bg_color=F3F7FC&title_color=557BAE&text_color=52657D&hide_border=true" />
+✨ Learning, experimenting and growing every day
 
-  <br/><br/>
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=Ajita1shahi&background=F3F7FC&ring=789BC5&fire=9BB5D5&currStreakLabel=557BAE&sideLabels=52657D&dates=8295AD&hide_border=true" />
-
-</div>
-
----
-
-<h2 align="center"><em>Featured Projects</em></h2>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mood Canvas</h3>
-      <p align="center">A gentle digital space for mood journaling and personal reflection.</p>
-      <p align="center"><a href="https://github.com/Ajita1shahi/Mood-Canvas">Explore Project →</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Luna Cycle</h3>
-      <p align="center">A period tracking application with calendar, symptoms, and insights.</p>
-      <p align="center"><a href="https://github.com/Ajita1shahi/Luna-Cycle">Explore Project →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">QA Testing Portfolio</h3>
-      <p align="center">Manual testing documentation, test cases, and bug reports.</p>
-      <p align="center"><a href="https://github.com/Ajita1shahi/Qa_testing_portfolio">Explore Project →</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Finance Tracker</h3>
-      <p align="center">A project focused on tracking and organizing personal finances.</p>
-      <p align="center"><a href="https://github.com/Ajita1shahi/Finance-Tracker">Explore Project →</a></p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+</div>
 
-<h2 align="center"><em>My Contribution Journey</em></h2>
+<br/>
+
+<!-- SKILLS -->
+
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
 
 <div align="center">
 
-  <img width="100%" src="https://ghchart.rshah.org/789BC5/Ajita1shahi" />
+**Languages & Development**
 
-  <br/>
+<br/><br/>
 
-  <p><em>Every contribution is a little step forward.</em></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django&theme=light" />
+
+<br/><br/>
+
+**Databases & Development Tools**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman&theme=light" />
+
+<br/><br/>
+
+**Other Tools & Interests**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-E8B923?style=flat-square&logo=powerbi&logoColor=222222" />
+<img src="https://img.shields.io/badge/Jira-2868C7?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Manual%20Testing-377BB5?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-315A88?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
----
+<br/>
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">GITHUB OVERVIEW</h2>
 
 <div align="center">
 
-  <p><em>Thank you for visiting my little corner of GitHub.</em></p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=101B35&title_color=8CCBFF&text_color=DCEBFA&icon_color=64B5F6&ring_color=64B5F6" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CADAF0,50:91B1D8,100:587DAF&height=110&section=footer" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=101B35&title_color=8CCBFF&text_color=DCEBFA&langs_count=6" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Ajita1shahi&hide_border=true&background=101B35&ring=64B5F6&fire=8CCBFF&currStreakLabel=8CCBFF&sideLabels=DCEBFA&dates=8AA7C7&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+
+<h2 align="center">SELECTED PROJECTS</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌸 Mood Canvas
+
+A mood journaling application featuring mood tracking, calendar views, search, filtering and entry management.
+
+<br/>
+
+<a href="https://github.com/Ajita1shahi/Mood-Canvas">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌙 Luna Cycle
+
+A period tracking application with account management, calendar, symptom tracking and personal insights.
+
+<br/>
+
+<a href="https://github.com/Ajita1shahi/Luna-Cycle">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧪 QA Testing Portfolio
+
+A practical collection of software testing exercises, test cases, bug reports and testing documentation.
+
+<br/>
+
+<a href="https://github.com/Ajita1shahi/Qa_testing_portfolio">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💰 Finance Tracker
+
+A finance management project focused on organizing and tracking personal financial activities.
+
+<br/>
+
+<a href="https://github.com/Ajita1shahi/Finance-Tracker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTIONS -->
+
+<h2 align="center">MY CONTRIBUTION JOURNEY</h2>
+
+<div align="center">
+
+<i>Small steps, consistent learning, and continuous progress. 💙</i>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/64B5F6/Ajita1shahi" alt="Ajita's GitHub contribution graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+
+<h2 align="center">LET'S CONNECT</h2>
+
+<div align="center">
+
+<a href="https://github.com/Ajita1shahi">
+<img src="https://img.shields.io/badge/GitHub-1B2B4B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Thanks for stopping by!**
+
+<sub>Keep exploring. Keep creating. Keep growing. ✨</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:72B7E8,50:164E91,100:101B3D&height=110&section=footer" />
 
 </div>
