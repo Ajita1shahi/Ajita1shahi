@@ -90,109 +90,95 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 <br/>
 
-<!-- GITHUB STATS -->
+
+<!-- ===================================== -->
+<!-- INTERACTIVE GITHUB OVERVIEW           -->
+<!-- ===================================== -->
 
 <h2 align="center">GITHUB OVERVIEW</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=101B35&title_color=8CCBFF&text_color=DCEBFA&icon_color=64B5F6&ring_color=64B5F6" />
+<p>
+  <i>A little snapshot of my coding activity and development journey.</i>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=101B35&title_color=8CCBFF&text_color=DCEBFA&langs_count=6" />
+<br/>
+
+<a href="https://github.com/Ajita1shahi">
+<img src="https://img.shields.io/badge/PROFILE-VIEW%20MY%20GITHUB-172A46?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
+</a>
+
+<a href="https://github.com/Ajita1shahi?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-172A46?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
+</a>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Ajita1shahi&hide_border=true&background=101B35&ring=64B5F6&fire=8CCBFF&currStreakLabel=8CCBFF&sideLabels=DCEBFA&dates=8AA7C7&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-
-<h2 align="center">SELECTED PROJECTS</h2>
-
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" bgcolor="#080D18">
 
-<div align="center">
+<a href="https://github.com/Ajita1shahi">
 
-### 🌸 Mood Canvas
+<img src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=080D18&title_color=8CCBFF&text_color=DCEBFA&icon_color=64B5F6&include_all_commits=true&rank_icon=github"/>
 
-A mood journaling application featuring mood tracking, calendar views, search, filtering and entry management.
-
-<br/>
-
-<a href="https://github.com/Ajita1shahi/Mood-Canvas">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 </td>
-<td width="50%" valign="top">
 
-<div align="center">
+<td align="center" width="50%" bgcolor="#080D18">
 
-### 🌙 Luna Cycle
+<a href="https://github.com/Ajita1shahi?tab=repositories">
 
-A period tracking application with account management, calendar, symptom tracking and personal insights.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=080D18&title_color=8CCBFF&text_color=DCEBFA&langs_count=6"/>
 
-<br/>
-
-<a href="https://github.com/Ajita1shahi/Luna-Cycle">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧪 QA Testing Portfolio
-
-A practical collection of software testing exercises, test cases, bug reports and testing documentation.
-
-<br/>
-
-<a href="https://github.com/Ajita1shahi/Qa_testing_portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💰 Finance Tracker
-
-A finance management project focused on organizing and tracking personal financial activities.
-
-<br/>
-
-<a href="https://github.com/Ajita1shahi/Finance-Tracker">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3478B8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#080D18">
+
+**CODING STREAK**
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Ajita1shahi&hide_border=true&background=080D18&ring=64B5F6&fire=8CCBFF&currStreakLabel=8CCBFF&sideLabels=DCEBFA&dates=8295AA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+### CONTRIBUTION ACTIVITY
+
+<a href="https://github.com/Ajita1shahi">
+
+<img src="https://ghchart.rshah.org/64B5F6/Ajita1shahi" alt="Ajita's GitHub contribution graph" width="100%"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi?tab=overview">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20ACTIVITY-101B35?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
+</a>
+
+</div>
+
+<!-- END GITHUB OVERVIEW -->
+
 
 <!-- CONTRIBUTIONS -->
 
