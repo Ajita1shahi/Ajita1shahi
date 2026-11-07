@@ -93,7 +93,7 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 
 <!-- ===================================== -->
-<!-- PASTEL HYDRANGEA | GITHUB DASHBOARD   -->
+<!-- GITHUB DASHBOARD   -->
 <!-- ===================================== -->
 
 <h2 align="center">MY GITHUB JOURNEY</h2>
@@ -108,22 +108,35 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 <br/><br/>
 
+<!-- PROFILE INSIGHTS -->
+
 <table>
 <tr>
-<td align="center" bgcolor="#DCEBFA" width="50%">
+<td align="center" width="50%" bgcolor="#DCEBFA">
+
+<a href="https://github.com/Ajita1shahi">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=DCEBFA&title_color=385B83&text_color=526C8C&icon_color=719AC2&rank_icon=github" />
 
+</a>
+
 </td>
-<td align="center" bgcolor="#E8DFF7" width="50%">
+
+<td align="center" width="50%" bgcolor="#E8DFF7">
+
+<a href="https://github.com/Ajita1shahi?tab=repositories">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=E8DFF7&title_color=70588D&text_color=70588D&langs_count=6" />
+
+</a>
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+<!-- CODING STREAK -->
 
 <table width="100%">
 <tr>
@@ -141,6 +154,8 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 <br/>
 
+<!-- CONTRIBUTION GARDEN -->
+
 <h3 align="center">THE CONTRIBUTION GARDEN</h3>
 
 <i>Every little square represents time spent learning and creating.</i>
@@ -151,13 +166,17 @@ I enjoy combining creativity with problem-solving and discovering how different 
 <tr>
 <td align="center" bgcolor="#EAF1F8">
 
-<img src="https://ghchart.rshah.org/7CA6CE/Ajita1shahi" alt="Contribution activity" width="100%"/>
+<a href="https://github.com/Ajita1shahi">
+
+<img src="https://ghchart.rshah.org/7CA6CE/Ajita1shahi" alt="Ajita's GitHub contribution garden" width="100%"/>
+
+</a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Ajita1shahi?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-DCEBFA?style=for-the-badge&logo=github&logoColor=385B83"/>
@@ -173,45 +192,4 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 </div>
 
-<!-- END PASTEL GITHUB DASHBOARD -->
-
-### CONTRIBUTION ACTIVITY
-
-<a href="https://github.com/Ajita1shahi">
-
-<img src="https://ghchart.rshah.org/64B5F6/Ajita1shahi" alt="Ajita's GitHub contribution graph" width="100%"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Ajita1shahi?tab=overview">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20ACTIVITY-101B35?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
-</a>
-
-</div>
-
-<!-- END GITHUB OVERVIEW -->
-
-
-<!-- CONNECT -->
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<div align="center">
-
-<a href="https://github.com/Ajita1shahi">
-<img src="https://img.shields.io/badge/GitHub-1B2B4B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Thanks for stopping by!**
-
-<sub>Keep exploring. Keep creating. Keep growing. ✨</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:72B7E8,50:164E91,100:101B3D&height=110&section=footer" />
-
-</div>
+<!-- END DASHBOARD -->
