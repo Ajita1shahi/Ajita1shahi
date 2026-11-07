@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:CADDF1,50:B8CDE8,100:DCD3ED&height=220&section=header&text=AJITA%20SHAHI&fontSize=58&fontColor=294766&fontAlignY=43&desc=Curiosity%20%7C%20Creativity%20%7C%20Technology&descSize=16&descColor=526B88&descAlignY=67&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E6DDF3,50:D8C9EA,100:C9B8DF&height=220&section=header&text=AJITA%20SHAHI&fontSize=58&fontColor=514366&fontAlignY=43&desc=Curiosity%20%7C%20Creativity%20%7C%20Technology&descSize=16&descColor=75658D&descAlignY=67&animation=fadeIn" />
 
 <br/>
 
@@ -44,7 +44,7 @@ An Information Technology student who enjoys exploring how technology works, bui
 </p>
 
 <p>
-I love the balance between creativity and problem-solving — whether it is developing an application, working with data, or exploring software quality.
+I love the balance between creativity and problem-solving whether it is developing an application, working with data, or exploring software quality.
 </p>
 
 <br/>
