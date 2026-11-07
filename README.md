@@ -1,12 +1,12 @@
 
 <!-- ========================================== -->
 <!-- AJITA SHAHI | GITHUB PROFILE README         -->
-<!-- Lavender • Blue Hydrangea • Soft Aesthetic -->
+<!-- Soft Lavender • Hydrangea • Elegant         -->
 <!-- ========================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6DDF3,50:D8C9EA,100:C9B8DF&height=230&section=header&text=AJITA%20SHAHI&fontSize=58&fontColor=514366&fontAlignY=40&desc=Curiosity%20%7C%20Creativity%20%7C%20Technology&descSize=16&descColor=75658D&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E6DDF3,50:D8C9EA,100:C9B8DF&height=220&section=header&text=AJITA%20SHAHI&fontSize=58&fontColor=514366&fontAlignY=43&desc=Curiosity%20%7C%20Creativity%20%7C%20Technology&descSize=16&descColor=75658D&descAlignY=67&animation=fadeIn" />
 
 <br/>
 
@@ -222,37 +222,7 @@ A collection of software testing practice, test cases, bug reports, API testing,
 <br/>
 
 <!-- ========================================== -->
-<!-- CONNECT                                    -->
-<!-- ========================================== -->
-
-<h2 align="center"><i>Let's Connect</i></h2>
-
-<div align="center">
-
-<p>
-Always learning, creating, and exploring new possibilities through technology.
-</p>
-
-<br/>
-
-<a href="https://github.com/Ajita1shahi">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-806B9C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C9EA,35:C8D5E9,70:E8DCEB,100:C9B8DF&height=170&section=footer"/>
-
-<p>
-<i>Like a hydrangea in bloom — always growing, always becoming.</i>
-</p>
-
-<sub>© 2026 · Ajita Shahi</sub>
-
-</div>
-
-<!-- ========================================== -->
-<!-- GITHUB STREAK                              -->
+<!-- GITHUB JOURNEY                             -->
 <!-- ========================================== -->
 
 <h2 align="center"><i>My GitHub Journey</i></h2>
@@ -281,9 +251,59 @@ Always learning, creating, and exploring new possibilities through technology.
 </tr>
 </table>
 
-<br/>
+<br/><br/>
+
+<h3 align="center">✿ The Contribution Garden</h3>
+
+<i>Every little square represents time spent learning and creating.</i>
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi">
+
+<img src="https://ghchart.rshah.org/B9A2D2/Ajita1shahi" alt="Ajita's Lavender Contribution Garden" width="100%"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-806B9C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajita1shahi?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-E8DFF7?style=for-the-badge&logo=github&logoColor=70588D"/>
+</a>
+
+<br/><br/>
 
 <sub>Growing one commit at a time.</sub>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- CONNECT                                    -->
+<!-- ========================================== -->
+
+<h2 align="center"><i>Let's Connect</i></h2>
+
+<div align="center">
+
+I'm always open to learning, collaborating, and connecting with people who enjoy building meaningful things with technology.
+
+<br/><br/>
+
+<a href="https://github.com/Ajita1shahi">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-806B9C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6DDF3,50:D8C9EA,100:C9B8DF&height=100&section=footer"/>
+
+<sub><i>Growing, creating, and finding beauty in the process.</i></sub>
 
 </div>
 
