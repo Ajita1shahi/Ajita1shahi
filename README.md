@@ -253,22 +253,6 @@ A collection of software testing practice, test cases, bug reports, API testing,
 
 <br/><br/>
 
-<h3>✿ The Contribution Garden</h3>
-
-<sub>Small steps, consistent effort, and new things discovered along the way.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Ajita1shahi">
-
-<img src="https://ghchart.rshah.org/B9A2D2/Ajita1shahi" alt="Ajita's Lavender Contribution Garden" width="100%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Ajita1shahi?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-DCEBFA?style=for-the-badge&logo=github&logoColor=385B83"/>
-</a>
 
 <a href="https://github.com/Ajita1shahi?tab=overview">
 <img src="https://img.shields.io/badge/VIEW%20ACTIVITY-E8DFF7?style=for-the-badge&logo=github&logoColor=70588D"/>
