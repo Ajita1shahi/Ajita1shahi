@@ -194,22 +194,6 @@ I enjoy combining creativity with problem-solving and discovering how different 
 <!-- END GITHUB OVERVIEW -->
 
 
-<!-- CONTRIBUTIONS -->
-
-<h2 align="center">MY CONTRIBUTION JOURNEY</h2>
-
-<div align="center">
-
-<i>Small steps, consistent learning, and continuous progress. 💙</i>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/64B5F6/Ajita1shahi" alt="Ajita's GitHub contribution graph" width="100%"/>
-
-</div>
-
-<br/>
-
 <!-- CONNECT -->
 
 <h2 align="center">LET'S CONNECT</h2>
