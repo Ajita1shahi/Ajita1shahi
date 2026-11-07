@@ -91,49 +91,33 @@ I enjoy combining creativity with problem-solving and discovering how different 
 <br/>
 
 
+
 <!-- ===================================== -->
-<!-- INTERACTIVE GITHUB OVERVIEW           -->
+<!-- PASTEL HYDRANGEA | GITHUB DASHBOARD   -->
 <!-- ===================================== -->
 
-<h2 align="center">GITHUB OVERVIEW</h2>
+<h2 align="center">MY GITHUB JOURNEY</h2>
 
 <div align="center">
 
-<p>
-  <i>A little snapshot of my coding activity and development journey.</i>
-</p>
+<i>Little commits, new discoveries, and a journey of continuous growth.</i>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/Ajita1shahi">
-<img src="https://img.shields.io/badge/PROFILE-VIEW%20MY%20GITHUB-172A46?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
-</a>
-
-<a href="https://github.com/Ajita1shahi?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-172A46?style=for-the-badge&logo=github&logoColor=8CCBFF"/>
-</a>
+<img src="https://img.shields.io/badge/CODING%20JOURNEY-CEE2F5?style=for-the-badge&labelColor=E9E2F5&color=CEE2F5" />
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="50%" bgcolor="#080D18">
+<td align="center" bgcolor="#DCEBFA" width="50%">
 
-<a href="https://github.com/Ajita1shahi">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=080D18&title_color=8CCBFF&text_color=DCEBFA&icon_color=64B5F6&include_all_commits=true&rank_icon=github"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajita1shahi&show_icons=true&hide_border=true&bg_color=DCEBFA&title_color=385B83&text_color=526C8C&icon_color=719AC2&rank_icon=github" />
 
 </td>
+<td align="center" bgcolor="#E8DFF7" width="50%">
 
-<td align="center" width="50%" bgcolor="#080D18">
-
-<a href="https://github.com/Ajita1shahi?tab=repositories">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=080D18&title_color=8CCBFF&text_color=DCEBFA&langs_count=6"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajita1shahi&layout=compact&hide_border=true&bg_color=E8DFF7&title_color=70588D&text_color=70588D&langs_count=6" />
 
 </td>
 </tr>
@@ -143,23 +127,53 @@ I enjoy combining creativity with problem-solving and discovering how different 
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#080D18">
+<td align="center" bgcolor="#F8E2EA">
 
-**CODING STREAK**
+**A LITTLE CONSISTENCY GOES A LONG WAY**
 
 <br/><br/>
 
-<a href="https://github.com/Ajita1shahi">
-
-<img width="85%" src="https://streak-stats.demolab.com?user=Ajita1shahi&hide_border=true&background=080D18&ring=64B5F6&fire=8CCBFF&currStreakLabel=8CCBFF&sideLabels=DCEBFA&dates=8295AA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</a>
+<img width="85%" src="https://streak-stats.demolab.com?user=Ajita1shahi&hide_border=true&background=F8E2EA&ring=C78DA8&fire=B86F8F&currStreakLabel=A65E79&sideLabels=A65E79&dates=AA8293&currStreakNum=75445C&sideNums=75445C"/>
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+<h3 align="center">THE CONTRIBUTION GARDEN</h3>
+
+<i>Every little square represents time spent learning and creating.</i>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#EAF1F8">
+
+<img src="https://ghchart.rshah.org/7CA6CE/Ajita1shahi" alt="Contribution activity" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Ajita1shahi?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-DCEBFA?style=for-the-badge&logo=github&logoColor=385B83"/>
+</a>
+
+<a href="https://github.com/Ajita1shahi?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20MY%20ACTIVITY-E8DFF7?style=for-the-badge&logo=github&logoColor=70588D"/>
+</a>
+
+<br/><br/>
+
+<sub>Growing one commit at a time.</sub>
+
+</div>
+
+<!-- END PASTEL GITHUB DASHBOARD -->
 
 ### CONTRIBUTION ACTIVITY
 
