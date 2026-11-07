@@ -221,17 +221,6 @@ A collection of software testing practice, test cases, bug reports, API testing,
 
 <br/>
 
-<!-- ========================================== -->
-<!-- GITHUB JOURNEY                             -->
-<!-- ========================================== -->
-
-<h2 align="center"><i>My GitHub Journey</i></h2>
-
-<div align="center">
-
-<i>Every project teaches something. Every commit marks a little progress.</i>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/LEARNING%20IN%20PROGRESS-CADCF0?style=for-the-badge&labelColor=E8DFF7&color=CADCF0"/>
 
