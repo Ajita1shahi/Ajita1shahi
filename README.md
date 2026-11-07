@@ -261,8 +261,7 @@ A collection of software testing practice, test cases, bug reports, API testing,
 
 <a href="https://github.com/Ajita1shahi">
 
-<img src="https://ghchart.rshah.org/7CA6CE/Ajita1shahi" alt="Ajita's GitHub contribution garden" width="100%"/>
-
+<img src="https://ghchart.rshah.org/B9A2D2/Ajita1shahi" alt="Ajita's Lavender Contribution Garden" width="100%"/>
 </a>
 
 <br/><br/>
