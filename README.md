@@ -1,7 +1,6 @@
 
 <!-- ========================================== -->
 <!-- AJITA SHAHI | GITHUB PROFILE README         -->
-<!-- Soft Lavender • Hydrangea • Elegant         -->
 <!-- ========================================== -->
 
 <div align="center">
