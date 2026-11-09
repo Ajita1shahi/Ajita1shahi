@@ -44,7 +44,7 @@ An Information Technology student who enjoys exploring how technology works, bui
 </p>
 
 <p>
-I love the balance between creativity and problem-solving — whether it is developing an application, working with data, or exploring software quality.
+I love the balance between creativity and problem-solving whether it is developing an application, working with data, or exploring software quality.
 </p>
 
 <br/>
