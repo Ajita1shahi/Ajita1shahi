@@ -306,6 +306,6 @@ I'm always open to learning, collaborating, and connecting with people who enjoy
 
 </div>
 
-<!-- ========================================== -->
-<!-- END                                       -->
-<!-- ========================================== -->
+
+<!-- END  -->
+
