@@ -113,7 +113,6 @@ I love the balance between creativity and problem-solving whether it is developi
 
 <br/>
 
-<!-- ========================================== -->
 <!-- FEATURED PROJECTS                          -->
 <!-- ========================================== -->
 
