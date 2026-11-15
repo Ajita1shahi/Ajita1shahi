@@ -282,9 +282,8 @@ A collection of software testing practice, test cases, bug reports, API testing,
 
 <br/>
 
-<!-- ========================================== -->
 <!-- CONNECT                                    -->
-<!-- ========================================== -->
+
 
 <h2 align="center"><i>Let's Connect</i></h2>
 
