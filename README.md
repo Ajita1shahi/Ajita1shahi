@@ -218,9 +218,9 @@ A collection of software testing practice, test cases, bug reports, API testing,
 
 <br/>
 
-<!-- ========================================== -->
+
 <!-- GITHUB JOURNEY                             -->
-<!-- ========================================== -->
+
 
 <h2 align="center"><i>My GitHub Journey</i></h2>
 
