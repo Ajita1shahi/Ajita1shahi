@@ -78,7 +78,7 @@ I love the balance between creativity and problem-solving whether it is developi
 <br/>
 
 <!-- TECH STACK                                 -->
-<!-- ========================================== -->
+
 
 <h2 align="center"><i>Technologies & Tools</i></h2>
 
